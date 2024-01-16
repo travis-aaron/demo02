@@ -1,1 +1,2 @@
 say hello from Travis
+goodbye from Travis
